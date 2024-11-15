@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "logo";
+    src: url(../fonts/njnaruto.ttf);
+}
+
+@font-face {
+    font-family: "regular";
+    src: url(../fonts/NotoSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: "bold";
+    src: url(../fonts/NotoSans-VariableFont_wdth\,wght.ttf);
+}
